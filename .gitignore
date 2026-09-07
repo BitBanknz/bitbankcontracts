@@ -1,5 +1,8 @@
 node_modules/
 out/
 cache/
-.env
+.env*
 broadcast/
+src/vendor/pons-v1
+.envsecret
+.deployerkey

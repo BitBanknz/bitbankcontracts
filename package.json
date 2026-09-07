@@ -1,1 +1,1 @@
-{"name":"@bitbanknz/contracts","version":"0.1.0","private":true,"license":"SEE LICENSE IN LICENSES.md","scripts":{"test":"node scripts/test.mjs"},"devDependencies":{"solc":"0.8.30","ethers":"6.15.0","ganache":"7.9.2"}}
+{"name":"@bitbanknz/contracts","version":"0.1.0","private":true,"license":"SEE LICENSE IN LICENSES.md","scripts":{"test":"node scripts/test.mjs","fork-test":"node scripts/fork-test.mjs"},"devDependencies":{"solc":"0.8.30","ethers":"6.15.0","ganache":"7.9.2"}}

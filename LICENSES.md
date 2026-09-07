@@ -6,6 +6,8 @@ This repository contains multiple licenses. SPDX headers on individual files rem
 | --- | --- | --- |
 | `src/BitbankFeeSplitter.sol`, `src/BitbankLaunchLocker.sol`, tests and scripts | Bitbank contributors | MIT |
 | `src/BitbankLaunchFactory.sol` | Bitbank adaptation of Pons Family V1 | MIT source header; includes linked GPL tick math |
+| `src/BitbankLauncherToken.sol` | Bitbank adaptation of the Pons Family V1 token | MIT |
+| `src/BitbankGasStation.sol` | Bitbank contributors | MIT |
 | `src/vendor/pons-v1/*` except tick math | Pons Family, upstream snapshot 845bd546b37515621e47b08015ce4f9d374f6eca | MIT source headers |
 | `src/vendor/pons-v1/libraries/PonsTickMath.sol` | Pons / Uniswap V3 TickMath lineage | GPL-2.0-or-later |
 | `lib/openzeppelin-contracts/*` | OpenZeppelin contributors, as vendored upstream | MIT source headers |
